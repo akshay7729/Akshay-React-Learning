@@ -1,0 +1,882 @@
+{
+    "products": [
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111111",
+            "source": "api",
+            "title": "iPhone Xs",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111112",
+            "source": "api",
+            "title": "iPhone XR",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xr.png",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111113",
+            "source": "api",
+            "title": "iPhone XS MAX",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs-silver.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111114",
+            "source": "api",
+            "title": "Macbook Pro",
+            "description": "",
+            "link": "/",
+            "imageLink": "/assets/images/Products/pro.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "Intel Core i5 Processor (8th Gen)", 
+                "8 GB DDR3 RAM", 
+                "Mac OS Operating System", 
+                "256 GB SSD", 
+                "33.78 cm (13.3 inch) Display", 
+                "1 Year Onsite Warranty"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "102000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "10",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["13.3 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111115",
+            "source": "api",
+            "title": "iPhone Xs",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111116",
+            "source": "api",
+            "title": "iPhone XR",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xr.png",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111117",
+            "source": "api",
+            "title": "iPhone XS MAX",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs-silver.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111118",
+            "source": "api",
+            "title": "Macbook Pro",
+            "description": "",
+            "link": "/",
+            "imageLink": "/assets/images/Products/pro.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "Intel Core i5 Processor (8th Gen)", 
+                "8 GB DDR3 RAM", 
+                "Mac OS Operating System", 
+                "256 GB SSD", 
+                "33.78 cm (13.3 inch) Display", 
+                "1 Year Onsite Warranty"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "140999",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "10",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["13.3 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:1111111119",
+            "source": "api",
+            "title": "iPhone Xs",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111110",
+            "source": "api",
+            "title": "iPhone XR",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xr.png",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111111",
+            "source": "api",
+            "title": "iPhone XS MAX",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs-silver.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111112",
+            "source": "api",
+            "title": "Macbook Pro",
+            "description": "",
+            "link": "/",
+            "imageLink": "/assets/images/Products/pro.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "Intel Core i5 Processor (8th Gen)", 
+                "8 GB DDR3 RAM", 
+                "Mac OS Operating System", 
+                "256 GB SSD", 
+                "33.78 cm (13.3 inch) Display", 
+                "1 Year Onsite Warranty"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "102099",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "10",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["13.3 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111113",
+            "source": "api",
+            "title": "iPhone Xs",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111114",
+            "source": "api",
+            "title": "iPhone XR",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xr.png",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111115",
+            "source": "api",
+            "title": "iPhone XS MAX",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs-silver.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111116",
+            "source": "api",
+            "title": "Macbook Pro",
+            "description": "",
+            "link": "/",
+            "imageLink": "/assets/images/Products/pro.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "Intel Core i5 Processor (8th Gen)", 
+                "8 GB DDR3 RAM", 
+                "Mac OS Operating System", 
+                "256 GB SSD", 
+                "33.78 cm (13.3 inch) Display", 
+                "1 Year Onsite Warranty"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "200000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "10",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["13.3 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111117",
+            "source": "api",
+            "title": "iPhone Xs",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111118",
+            "source": "api",
+            "title": "iPhone XR",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xr.png",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111119",
+            "source": "api",
+            "title": "iPhone XS MAX",
+            "description": "iphone xs in new gold",
+            "link": "/",
+            "imageLink": "/assets/images/Products/xs-silver.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "64 GB ROM",
+                "14.73 cm (5.8 inch) Super Retina HD Display",
+                "12MP + 12MP | 7MP Front Camera",
+                "A12 Bionic Chip Processor"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "64000",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "20.6",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["5.8 inch"]
+        },
+        {
+            "kind": "content#product",
+            "id": "online:en:IND:11111111120",
+            "source": "api",
+            "title": "Macbook Pro",
+            "description": "",
+            "link": "/",
+            "imageLink": "/assets/images/Products/pro.jpeg",
+            "contentLanguage": "en",
+            "targetCountry": "IND",
+            "channel": "online",
+            "ageGroup": "adult",
+            "availability": "in stock",
+            "availabilityDate": "2019-01-25T13:00:00-08:00",
+            "brand": "Apple", 
+            "bulletPoints": [
+                "Intel Core i5 Processor (8th Gen)", 
+                "8 GB DDR3 RAM", 
+                "Mac OS Operating System", 
+                "256 GB SSD", 
+                "33.78 cm (13.3 inch) Display", 
+                "1 Year Onsite Warranty"
+            ],
+            "color": "Gold",
+            "condition": "new",
+            "price": {
+                "value": "154999",
+                "currency": "IND"
+            },
+            "offers": {
+                "offerId": "12345678",
+                "baseDiscount": "10",
+                "bankOffers": {
+                    "icici": "5",
+                    "axis": "2",
+                    "hdfc": "3.5"
+                },
+                "cashback": {
+                    "paytm": "500",
+                    "amazonPay": "1000",
+                    "phonePe": "200"
+                }
+            },
+            "sizes": ["13.3 inch"]
+        }
+    ],
+    "facets": [
+        {
+            "size": ["5.8 inch", "6.5 inch"],
+            "colors": ["Gold", "Silver", "Black", "White", "Dark Grey"],
+            "internalStorage": ["32 GB", "64 GB", "128 GB", "512 GB"],
+            "ram": ["2 GB", "4 GB", "6 GB", "8 GB"]
+        }
+    ]
+}

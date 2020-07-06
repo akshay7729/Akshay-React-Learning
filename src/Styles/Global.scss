@@ -1,0 +1,9 @@
+*{margin: 0px; padding: 0px;}
+
+a{
+    color: map-get($colors, colorBlack);
+    &:hover, &:focus, &:active{
+        text-decoration: none;
+        color: map-get($colors, colorBlack);
+    }
+}
