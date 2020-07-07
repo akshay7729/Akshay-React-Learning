@@ -32,7 +32,7 @@ const Search = () => {
                 onKeyUp={e => handleSearchKeyUp(e.target.value)} 
             />
             <Button className="main-search-btn">
-                <Link to={query ? `/plp/${query}` : `/`}><FontAwesomeIcon icon={faSearch} /></Link>
+                <Link to={`/plp/${query}`}><FontAwesomeIcon icon={faSearch} /></Link>
             </Button>
         </Form>
     )
