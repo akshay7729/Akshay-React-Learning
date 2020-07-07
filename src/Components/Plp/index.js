@@ -17,8 +17,11 @@ const PLP = props => {
     fetch("/data/plp.json")
       .then(response => response.json())
       .then(data => {
-        console.log(data.products);
-        setProduct(data.products);
+        const allProducts = data.products;
+        const getProducts = allProducts.filter(prod => {
+          return prod.title.toLowerCase().includes(props.match.params.id.toLowerCase()) && prod
+        });
+        setProduct(getProducts);
       })
       .catch(e => console.log(e));
   }, []);
